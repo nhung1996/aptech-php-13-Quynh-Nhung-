@@ -1,0 +1,31 @@
+
+.h2{
+    color: rgb(4, 14, 13);
+    font-size: 20px;
+    text-align: left;
+    font-family: sans-serif;
+}
+body{
+background-color:burlywood;
+font-family: cambria;
+color: brown;
+    
+ }
+ 
+ 
+ 
+ 
+ .picture {
+    display: block; margin-left: auto; margin-right: auto;
+     width: 400px;
+     height: auto;
+
+ }
+ .h1{
+    font-family: Lobster;
+     font: 500px;
+     text-align: center;
+     color: tomato;
+
+ }
+ 
