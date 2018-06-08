@@ -1,15 +1,16 @@
 
 .h2{
-    color: rgb(4, 14, 13);
-    font-size: 20px;
+    color: yellowgreen;
+    font-size: 30px;
     text-align: left;
     font-family: sans-serif;
 }
 body{
-background-color:burlywood;
+background-color:#e9ecef;
 font-family: cambria;
-color: brown;
-    
+color:green;
+    margin: 0;
+    padding: 0;
  }
  
  
@@ -17,7 +18,7 @@ color: brown;
  
  .picture {
     display: block; margin-left: auto; margin-right: auto;
-     width: 400px;
+     width: 600px;
      height: auto;
 
  }
@@ -25,6 +26,50 @@ color: brown;
     font-family: Lobster;
      font: 500px;
      text-align: center;
-     color: tomato;
+     color: yellowgreen;
+     display: block; margin-left: auto; margin-right: auto;
 
  }
+ .headerp {
+    background-color:black;
+    width: 100%;
+        height: 100px;
+ }
+ .navp {
+    background-color:black;
+    width: 100%;
+    height: 600px;
+}
+
+.fixloi {
+    width: 80%;
+    height: 300px;
+}
+.sectionp {
+    width: 100%;
+    height: 250px;
+    background-color:black;
+}
+
+.articlep {
+    width: 100%;
+    height: 200px;
+    background-color:black;
+}
+.asidep{
+    width: 100%;
+    height: 200px;
+    background-color:black;
+}
+.divinside {
+    background-color:white;
+}
+.footerp {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.pm {
+    padding: 1px; /* tweaked from 0 to 1px */;
+    maggin: 0px;
+}
